@@ -20,6 +20,8 @@ https://github.com/dotnetcore/Magicodes.IE
 
 https://github.com/dotnetcore/FlubuCore
 
+https://github.com/IoTSharp/IoTSharp
+
 ## 工具
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 https://github.com/fanliang11/surging
