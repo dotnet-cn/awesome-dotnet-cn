@@ -22,6 +22,8 @@ https://github.com/dotnetcore/FlubuCore
 
 https://github.com/IoTSharp/IoTSharp
 
+https://github.com/hanzhaoxin/ExcelReport
+
 ## 工具
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 https://github.com/fanliang11/surging
