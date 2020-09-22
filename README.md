@@ -42,14 +42,19 @@ https://github.com/liukuo362573/YiShaAdmin
 
 https://github.com/siteserver/cms
 
-## 未分类
+## 支付接入
 https://github.com/Varorbc/PaySharp
 
 https://github.com/essensoft/payment
 
+## 文本处理 NLP
+https://github.com/zmjack/Chinese
+
+https://github.com/tonyqus/nepy
+
 https://github.com/anderscui/jieba.NET
 
-https://github.com/RockNHawk/Staticize
 
-https://github.com/zmjack/Chinese
+
+
 
