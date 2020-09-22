@@ -47,6 +47,11 @@ https://github.com/Varorbc/PaySharp
 
 https://github.com/essensoft/payment
 
+## 图像处理
+https://github.com/SciSharp/SharpCV
+
+
+
 ## 文本处理 NLP
 https://github.com/zmjack/Chinese
 
@@ -54,7 +59,7 @@ https://github.com/tonyqus/nepy
 
 https://github.com/anderscui/jieba.NET
 
-
+https://github.com/SciSharp/CherubNLP
 
 
 
