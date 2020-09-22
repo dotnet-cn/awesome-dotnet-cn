@@ -17,3 +17,5 @@ https://github.com/WeihanLi/DbTool
 https://github.com/WeihanLi/WeihanLi.Npoi
 
 https://github.com/dotnetcore/Magicodes.IE
+
+https://github.com/dotnetcore/FlubuCore
