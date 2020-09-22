@@ -24,6 +24,8 @@ https://github.com/IoTSharp/IoTSharp
 
 https://github.com/hanzhaoxin/ExcelReport
 
+https://github.com/icsharp/Hangfire.Topshelf
+
 ## 工具
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 https://github.com/fanliang11/surging
