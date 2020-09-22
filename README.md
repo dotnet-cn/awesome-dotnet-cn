@@ -1,5 +1,5 @@
 # awesome-opensources
-国内优秀开源项目聚合
+优秀开源项目聚合
 
 https://github.com/yhuse/SunnyUI
 
