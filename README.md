@@ -20,12 +20,23 @@ https://github.com/dotnetcore/Magicodes.IE
 
 https://github.com/dotnetcore/FlubuCore
 
+## 工具
+https://github.com/shadowsocksrr/shadowsocksr-csharp
+https://github.com/fanliang11/surging
+
 ## 界面
 https://github.com/ant-design-blazor/ant-design-blazor
 
 https://github.com/yhuse/SunnyUI
 
-## 系统
+## Web系统
 https://github.com/SeriaWei/ZKEACMS
 
 https://github.com/liukuo362573/YiShaAdmin
+
+https://github.com/siteserver/cms
+
+## 未分类
+https://github.com/Varorbc/PaySharp
+https://github.com/essensoft/payment
+https://github.com/anderscui/jieba.NET
