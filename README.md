@@ -38,5 +38,12 @@ https://github.com/siteserver/cms
 
 ## 未分类
 https://github.com/Varorbc/PaySharp
+
 https://github.com/essensoft/payment
+
 https://github.com/anderscui/jieba.NET
+
+https://github.com/RockNHawk/Staticize
+
+https://github.com/zmjack/Chinese
+
