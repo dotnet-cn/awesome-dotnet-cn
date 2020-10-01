@@ -60,7 +60,4 @@ https://github.com/tonyqus/nepy
 
 https://github.com/anderscui/jieba.NET
 
-https://github.com/SciSharp/CherubNLP
-
-
-
+https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/nuget/v/CherubNLP.svg?style=flat)](https://www.nuget.org/packages/CherubNLP/) [![NuGet](https://img.shields.io/nuget/dt/CherubNLP)](https://www.nuget.org/packages/CherubNLP) 
