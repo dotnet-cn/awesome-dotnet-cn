@@ -17,8 +17,6 @@ https://github.com/WeihanLi/DbTool
 
 https://github.com/WeihanLi/WeihanLi.Npoi [![NuGet Version](https://img.shields.io/nuget/v/WeihanLi.Npoi.svg?style=flat)](https://www.nuget.org/packages/WeihanLi.Npoi/) [![NuGet](https://img.shields.io/nuget/dt/WeihanLi.Npoi.svg)](https://www.nuget.org/packages/WeihanLi.Npoi) 
 
-https://github.com/dotnetcore/Magicodes.IE [![NuGet Version](https://img.shields.io/nuget/v/Magicodes.IE.Core.svg?style=flat)](https://www.nuget.org/packages/Magicodes.IE.Core/) [![NuGet](https://img.shields.io/nuget/dt/Magicodes.IE.Core.svg)](https://www.nuget.org/packages/Magicodes.IE.Core) 
-
 https://github.com/dotnetcore/FlubuCore  [![NuGet Version](https://img.shields.io/nuget/v/FlubuCore.svg?style=flat)](https://www.nuget.org/packages/FlubuCore/) [![NuGet](https://img.shields.io/nuget/dt/FlubuCore)](https://www.nuget.org/packages/FlubuCore) 
 
 https://github.com/IoTSharp/IoTSharp
