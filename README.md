@@ -27,6 +27,8 @@ https://github.com/hanzhaoxin/ExcelReport  [![NuGet Version](https://img.shields
 
 https://github.com/icsharp/Hangfire.Topshelf
 
+https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nuget/v/Casbin.NET.svg?style=flat)](https://www.nuget.org/packages/Casbin.NET/) [![NuGet](https://img.shields.io/nuget/dt/Casbin.NET)](https://www.nuget.org/packages/Casbin.NET) 
+
 ## 工具
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 https://github.com/fanliang11/surging
