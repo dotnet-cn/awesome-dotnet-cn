@@ -23,7 +23,7 @@ https://github.com/dotnetcore/FlubuCore  [![NuGet Version](https://img.shields.i
 
 https://github.com/IoTSharp/IoTSharp
 
-https://github.com/hanzhaoxin/ExcelReport
+https://github.com/hanzhaoxin/ExcelReport  [![NuGet Version](https://img.shields.io/nuget/v/ExcelReport.svg?style=flat)](https://www.nuget.org/packages/ExcelReport/) [![NuGet](https://img.shields.io/nuget/dt/ExcelReport)](https://www.nuget.org/packages/ExcelReport) 
 
 https://github.com/icsharp/Hangfire.Topshelf
 
@@ -51,9 +51,7 @@ https://github.com/Varorbc/PaySharp
 https://github.com/essensoft/payment
 
 ## 图像处理
-https://github.com/SciSharp/SharpCV
-
-
+https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nuget/v/SharpCV.svg?style=flat)](https://www.nuget.org/packages/SharpCV/) [![NuGet](https://img.shields.io/nuget/dt/SharpCV)](https://www.nuget.org/packages/SharpCV) 
 
 ## 文本处理 NLP
 https://github.com/zmjack/Chinese
