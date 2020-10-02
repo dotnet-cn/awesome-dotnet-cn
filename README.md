@@ -46,10 +46,13 @@ https://github.com/liukuo362573/YiShaAdmin
 https://github.com/siteserver/cms
 
 ## 支付接入
-一个支持多商户多种支付方式的跨平台网关处理类库
+支持多商户多种支付方式的跨平台网关处理类库
+
 https://github.com/Varorbc/PaySharp [![NuGet Version](https://img.shields.io/nuget/v/PaySharp.Core.svg?style=flat)](https://www.nuget.org/packages/PaySharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/PaySharp.Core)](https://www.nuget.org/packages/PaySharp.Core) 
 
-https://github.com/essensoft/payment
+支持多商户的跨平台支付SDK集，简化了API调用及相关通知的处理流程
+
+https://github.com/essensoft/payment [![NuGet Version](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.Security.svg?style=flat)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security/) [![NuGet](https://img.shields.io/nuget/dt/Essensoft.AspNetCore.Payment.Security)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security) 
 
 ## 图像处理
 https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nuget/v/SharpCV.svg?style=flat)](https://www.nuget.org/packages/SharpCV/) [![NuGet](https://img.shields.io/nuget/dt/SharpCV)](https://www.nuget.org/packages/SharpCV) 
