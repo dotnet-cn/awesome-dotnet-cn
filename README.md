@@ -61,3 +61,8 @@ https://github.com/tonyqus/nepy
 https://github.com/anderscui/jieba.NET [![NuGet Version](https://img.shields.io/nuget/v/jieba.NET.svg?style=flat)](https://www.nuget.org/packages/jieba.NET/) [![NuGet](https://img.shields.io/nuget/dt/jieba.NET)](https://www.nuget.org/packages/jieba.NET) 
 
 https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/nuget/v/CherubNLP.svg?style=flat)](https://www.nuget.org/packages/CherubNLP/) [![NuGet](https://img.shields.io/nuget/dt/CherubNLP)](https://www.nuget.org/packages/CherubNLP) 
+
+## 单元测试
+
+用中文编写的单元测试框架  
+https://github.com/dotnet-campus/CUnit [![NuGet Version](https://img.shields.io/nuget/v/MSTestEnhancer.svg?style=flat)](https://www.nuget.org/packages/MSTestEnhancer/) [![NuGet](https://img.shields.io/nuget/dt/MSTestEnhancer)](https://www.nuget.org/packages/MSTestEnhancer)
