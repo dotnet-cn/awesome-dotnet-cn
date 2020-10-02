@@ -46,7 +46,8 @@ https://github.com/liukuo362573/YiShaAdmin
 https://github.com/siteserver/cms
 
 ## 支付接入
-https://github.com/Varorbc/PaySharp
+一个支持多商户多种支付方式的跨平台网关处理类库
+https://github.com/Varorbc/PaySharp [![NuGet Version](https://img.shields.io/nuget/v/PaySharp.Core.svg?style=flat)](https://www.nuget.org/packages/PaySharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/PaySharp.Core)](https://www.nuget.org/packages/PaySharp.Core) 
 
 https://github.com/essensoft/payment
 
