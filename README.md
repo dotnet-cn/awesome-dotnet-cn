@@ -4,7 +4,7 @@
 
 
 ## 中间件
-Office读写组件，Apache POI移植版本  
+Office文件读写组件，Apache POI移植版本  
 https://github.com/tonyqus/npoi [![NuGet Version](https://img.shields.io/nuget/v/NPOI.svg?style=flat)](https://www.nuget.org/packages/NPOI/) [![NuGet](https://img.shields.io/nuget/dt/NPOI.svg)](https://www.nuget.org/packages/NPOI) 
 
 WebSocket客户端  
