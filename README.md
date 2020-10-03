@@ -41,12 +41,10 @@ https://github.com/icsharp/Hangfire.Topshelf
 https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nuget/v/Casbin.NET.svg?style=flat)](https://www.nuget.org/packages/Casbin.NET/) [![NuGet](https://img.shields.io/nuget/dt/Casbin.NET)](https://www.nuget.org/packages/Casbin.NET) 
 
 ## 工具/系统
-SS客户端
-
+SS客户端  
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 
-分布式微服务框架,提供高性能RPC远程服务调用
-
+分布式微服务框架,提供高性能RPC远程服务调用  
 https://github.com/fanliang11/surging
 
 https://github.com/SeriaWei/ZKEACMS
@@ -63,12 +61,10 @@ https://github.com/HenJigg/WPF-UI-Design
 https://github.com/yhuse/SunnyUI
 
 ## 支付接入
-支持多商户多种支付方式的跨平台网关处理类库
-
+支持多商户多种支付方式的跨平台网关处理类库  
 https://github.com/Varorbc/PaySharp [![NuGet Version](https://img.shields.io/nuget/v/PaySharp.Core.svg?style=flat)](https://www.nuget.org/packages/PaySharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/PaySharp.Core)](https://www.nuget.org/packages/PaySharp.Core) 
 
-支持多商户的跨平台支付SDK集，简化了API调用及相关通知的处理流程
-
+支持多商户的跨平台支付SDK集，简化了API调用及相关通知的处理流程  
 https://github.com/essensoft/payment [![NuGet Version](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.Security.svg?style=flat)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security/) [![NuGet](https://img.shields.io/nuget/dt/Essensoft.AspNetCore.Payment.Security)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security) 
 
 ## 图像处理
@@ -77,15 +73,13 @@ https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nug
 ## 文本处理 NLP
 https://github.com/zmjack/Chinese
 
-自然语言处理库
-
+自然语言处理库  
 https://github.com/tonyqus/nepy
 
-中文分词库
-
+中文分词库  
 https://github.com/anderscui/jieba.NET [![NuGet Version](https://img.shields.io/nuget/v/jieba.NET.svg?style=flat)](https://www.nuget.org/packages/jieba.NET/) [![NuGet](https://img.shields.io/nuget/dt/jieba.NET)](https://www.nuget.org/packages/jieba.NET) 
 
-自然语言处理库
+自然语言处理库  
 https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/nuget/v/CherubNLP.svg?style=flat)](https://www.nuget.org/packages/CherubNLP/) [![NuGet](https://img.shields.io/nuget/dt/CherubNLP)](https://www.nuget.org/packages/CherubNLP) 
 
 ## 单元测试
