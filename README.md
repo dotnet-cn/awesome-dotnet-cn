@@ -67,14 +67,14 @@ https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nug
 ## 文本处理 NLP
 https://github.com/zmjack/Chinese
 
-自然语言处理库  
-https://github.com/tonyqus/nepy
-
 中文分词库  
 https://github.com/anderscui/jieba.NET [![NuGet Version](https://img.shields.io/nuget/v/jieba.NET.svg?style=flat)](https://www.nuget.org/packages/jieba.NET/) [![NuGet](https://img.shields.io/nuget/dt/jieba.NET)](https://www.nuget.org/packages/jieba.NET) 
 
 自然语言处理库  
 https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/nuget/v/CherubNLP.svg?style=flat)](https://www.nuget.org/packages/CherubNLP/) [![NuGet](https://img.shields.io/nuget/dt/CherubNLP)](https://www.nuget.org/packages/CherubNLP) 
+
+自然语言处理库  
+https://github.com/tonyqus/nepy
 
 ## 单元测试
 
