@@ -37,6 +37,9 @@ https://github.com/shadowsocksrr/shadowsocksr-csharp
 分布式微服务框架,提供高性能RPC远程服务调用  
 https://github.com/fanliang11/surging
 
+类似LINQPad的工具  
+https://github.com/night-moon-studio/NatashaPad/ 
+
 https://github.com/SeriaWei/ZKEACMS
 
 https://github.com/liukuo362573/YiShaAdmin
