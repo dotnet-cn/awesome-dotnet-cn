@@ -48,22 +48,12 @@ https://github.com/siteserver/cms
 物联网采集平台  
 https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
 
-## 快速开发框架/CMS
-基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
-https://github.com/iamoldli/NetModular
+## 算法
+动态缓存库，实现了各种查找树
+https://github.com/night-moon-studio/dynamiccache
 
- .Net Core可视化设计在线编辑内容管理系统  
-https://github.com/SeriaWei/ZKEACMS
-
-.NET Core Web开发的快速开发框架，支持Web和移动端  
-https://github.com/liukuo362573/YiShaAdmin
-
-## 界面设计
-https://github.com/ant-design-blazor/ant-design-blazor
-
-https://github.com/HenJigg/WPF-UI-Design
-
-https://github.com/yhuse/SunnyUI
+字典树实现，可达到毫秒级快速关键字搜索
+https://github.com/tonyqus/TrieTreeService
 
 ## 支付接入
 支持多商户多种支付方式的跨平台网关处理类库  
@@ -86,6 +76,23 @@ https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/n
 
 自然语言处理库  
 https://github.com/tonyqus/nepy
+
+## 快速开发框架/CMS
+基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
+https://github.com/iamoldli/NetModular
+
+ .Net Core可视化设计在线编辑内容管理系统  
+https://github.com/SeriaWei/ZKEACMS
+
+.NET Core Web开发的快速开发框架，支持Web和移动端  
+https://github.com/liukuo362573/YiShaAdmin
+
+## 界面设计
+https://github.com/ant-design-blazor/ant-design-blazor
+
+https://github.com/HenJigg/WPF-UI-Design
+
+https://github.com/yhuse/SunnyUI
 
 ## 单元测试
 
