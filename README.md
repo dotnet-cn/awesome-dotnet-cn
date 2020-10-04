@@ -1,6 +1,6 @@
 欢迎PR新项目到这个列表中，入表规则见 [这里](https://github.com/dotnet-cn/awesome-dotnet-cn/wiki/%E5%8A%A0%E5%85%A5%E5%88%97%E8%A1%A8%E8%A7%84%E5%88%99)
 
-# 华人圈优秀开源项目聚合
+# 华人圈开源项目聚合
 
 
 ## 中间件
@@ -43,18 +43,20 @@ https://github.com/night-moon-studio/NatashaPad/
 开源的分布式任务调度系统，基于.NET Core 3.1平台构建，支持跨平台多节点部署运行  
 https://github.com/hey-hoho/ScheduleMasterCore [![NuGet Version](https://img.shields.io/nuget/v/ScheduleMasterCore.svg?style=flat)](https://www.nuget.org/packages/ScheduleMasterCore/) [![NuGet](https://img.shields.io/nuget/dt/ScheduleMasterCore)](https://www.nuget.org/packages/ScheduleMasterCore)
 
-https://github.com/liukuo362573/YiShaAdmin
-
 https://github.com/siteserver/cms
 
 物联网采集平台  
 https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
 
-## 快速开发框架
+## 快速开发框架/CMS
 基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
 https://github.com/iamoldli/NetModular
 
+ .Net Core可视化设计在线编辑内容管理系统
 https://github.com/SeriaWei/ZKEACMS
+
+.NET Core Web开发的快速开发框架，支持Web和移动端
+https://github.com/liukuo362573/YiShaAdmin
 
 ## 界面设计
 https://github.com/ant-design-blazor/ant-design-blazor
