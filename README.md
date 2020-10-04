@@ -41,7 +41,7 @@ https://github.com/fanliang11/surging
 https://github.com/night-moon-studio/NatashaPad/ 
 
 开源的分布式任务调度系统，基于.NET Core 3.1平台构建，支持跨平台多节点部署运行  
-https://github.com/hey-hoho/ScheduleMasterCore [![NuGet Version](https://img.shields.io/nuget/v/ScheduleMasterCore.svg?style=flat)](https://www.nuget.org/packages/ScheduleMasterCore/) [![NuGet](https://img.shields.io/nuget/dt/ScheduleMasterCore)](https://www.nuget.org/packages/ScheduleMasterCore)
+https://github.com/hey-hoho/ScheduleMaster [![NuGet Version](https://img.shields.io/nuget/v/ScheduleMaster.svg?style=flat)](https://www.nuget.org/packages/ScheduleMaster/) [![NuGet](https://img.shields.io/nuget/dt/ScheduleMaster)](https://www.nuget.org/packages/ScheduleMaster)
 
 https://github.com/siteserver/cms
 
