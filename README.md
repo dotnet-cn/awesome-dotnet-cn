@@ -52,10 +52,10 @@ https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nu
 基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
 https://github.com/iamoldli/NetModular
 
- .Net Core可视化设计在线编辑内容管理系统
+ .Net Core可视化设计在线编辑内容管理系统  
 https://github.com/SeriaWei/ZKEACMS
 
-.NET Core Web开发的快速开发框架，支持Web和移动端
+.NET Core Web开发的快速开发框架，支持Web和移动端  
 https://github.com/liukuo362573/YiShaAdmin
 
 ## 界面设计
