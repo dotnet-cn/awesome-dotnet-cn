@@ -47,10 +47,10 @@ https://github.com/siteserver/cms
 https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
 
 ## 算法
-动态缓存库，实现了各种查找树
+动态缓存库，实现了各种查找树  
 https://github.com/night-moon-studio/dynamiccache
 
-字典树实现，可达到毫秒级快速关键字搜索
+字典树实现，可达到毫秒级快速关键字搜索  
 https://github.com/tonyqus/TrieTreeService
 
 ## 支付接入
