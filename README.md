@@ -25,8 +25,6 @@ https://github.com/dotnetcore/FlubuCore  [![NuGet Version](https://img.shields.i
 Excel模板渲染引擎  
 https://github.com/hanzhaoxin/ExcelReport  [![NuGet Version](https://img.shields.io/nuget/v/ExcelReport.svg?style=flat)](https://www.nuget.org/packages/ExcelReport/) [![NuGet](https://img.shields.io/nuget/dt/ExcelReport)](https://www.nuget.org/packages/ExcelReport) 
 
-https://github.com/icsharp/Hangfire.Topshelf
-
 .NET访问控制库，支持各种访问控制模型   
 https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nuget/v/Casbin.NET.svg?style=flat)](https://www.nuget.org/packages/Casbin.NET/) [![NuGet](https://img.shields.io/nuget/dt/Casbin.NET)](https://www.nuget.org/packages/Casbin.NET) 
 
@@ -85,7 +83,7 @@ https://github.com/iamoldli/NetModular
  .Net Core可视化设计在线编辑内容管理系统  
 https://github.com/SeriaWei/ZKEACMS
 
-.NET Core Web开发的快速开发框架，支持Web和移动端
+.NET Core Web开发的快速开发框架，支持Web和移动端  
 https://github.com/liukuo362573/YiShaAdmin
 
 基于.NET 5的极速开发 Web 应用框架  
