@@ -77,21 +77,27 @@ https://github.com/SciSharp/CherubNLP [![NuGet Version](https://img.shields.io/n
 自然语言处理库  
 https://github.com/tonyqus/nepy
 
-## 快速开发框架/CMS
+## 快速开发框架、CMS
 基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
 https://github.com/iamoldli/NetModular
-
+`
  .Net Core可视化设计在线编辑内容管理系统  
 https://github.com/SeriaWei/ZKEACMS
 
-.NET Core Web开发的快速开发框架，支持Web和移动端  
+.NET Core Web开发的快速开发框架，支持Web和移动端
 https://github.com/liukuo362573/YiShaAdmin
 
-## 界面设计
+基于.NET 5的极速开发 Web 应用框架  
+https://github.com/MonkSoul/Fur
+
+## 界面设计、控件库
+基于 Ant Design 和 Blazor 的企业级组件库  
 https://github.com/ant-design-blazor/ant-design-blazor
 
+WPF UI设计  
 https://github.com/HenJigg/WPF-UI-Design
 
+基于 C# .Net WinForm 开源控件库、工具类库、扩展类库、多页面开发框架  
 https://github.com/yhuse/SunnyUI
 
 ## 单元测试
