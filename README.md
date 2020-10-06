@@ -16,8 +16,8 @@ https://github.com/tonyqus/toxy [![NuGet Version](https://img.shields.io/nuget/v
 轻量级Socket可扩展框架  
 https://github.com/kerryjiang/SuperSocket [![NuGet Version](https://img.shields.io/nuget/v/SuperSocket.svg?style=flat)](https://www.nuget.org/packages/SuperSocket/) [![NuGet](https://img.shields.io/nuget/dt/SuperSocket.svg)](https://www.nuget.org/packages/SuperSocket) 
 
-NPOI扩展库  
-https://github.com/WeihanLi/WeihanLi.Npoi [![NuGet Version](https://img.shields.io/nuget/v/WeihanLi.Npoi.svg?style=flat)](https://www.nuget.org/packages/WeihanLi.Npoi/) [![NuGet](https://img.shields.io/nuget/dt/WeihanLi.Npoi.svg)](https://www.nuget.org/packages/WeihanLi.Npoi) 
+NPOI Mapper  
+https://github.com/donnytian/Npoi.Mapper [![NuGet Version](https://img.shields.io/nuget/v/Npoi.Mapper.svg?style=flat)](https://www.nuget.org/packages/Npoi.Mapper/) [![NuGet](https://img.shields.io/nuget/dt/Npoi.Mapper.svg)](https://www.nuget.org/packages/Npoi.Mapper) 
 
 跨平台部署自动化系统  
 https://github.com/dotnetcore/FlubuCore  [![NuGet Version](https://img.shields.io/nuget/v/FlubuCore.svg?style=flat)](https://www.nuget.org/packages/FlubuCore/) [![NuGet](https://img.shields.io/nuget/dt/FlubuCore)](https://www.nuget.org/packages/FlubuCore) 
