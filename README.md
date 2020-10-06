@@ -66,6 +66,7 @@ https://github.com/essensoft/payment [![NuGet Version](https://img.shields.io/nu
 https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nuget/v/SharpCV.svg?style=flat)](https://www.nuget.org/packages/SharpCV/) [![NuGet](https://img.shields.io/nuget/dt/SharpCV)](https://www.nuget.org/packages/SharpCV) 
 
 ## 文本处理 NLP
+中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。  
 https://github.com/zmjack/Chinese
 
 中文分词库  
