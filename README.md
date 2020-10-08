@@ -50,6 +50,9 @@ https://github.com/siteserver/cms
 物联网采集平台  
 https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
 
+基于xlua的MVVM框架  
+https://github.com/Justin-sky/Nice-Lua
+
 ## 算法
 动态缓存库，实现了各种查找树  
 https://github.com/night-moon-studio/dynamiccache
