@@ -19,9 +19,6 @@ https://github.com/kerryjiang/SuperSocket [![NuGet Version](https://img.shields.
 NPOI Mapper  
 https://github.com/donnytian/Npoi.Mapper [![NuGet Version](https://img.shields.io/nuget/v/Npoi.Mapper.svg?style=flat)](https://www.nuget.org/packages/Npoi.Mapper/) [![NuGet](https://img.shields.io/nuget/dt/Npoi.Mapper.svg)](https://www.nuget.org/packages/Npoi.Mapper) 
 
-跨平台部署自动化系统  
-https://github.com/dotnetcore/FlubuCore  [![NuGet Version](https://img.shields.io/nuget/v/FlubuCore.svg?style=flat)](https://www.nuget.org/packages/FlubuCore/) [![NuGet](https://img.shields.io/nuget/dt/FlubuCore)](https://www.nuget.org/packages/FlubuCore) 
-
 Excel模板渲染引擎  
 https://github.com/hanzhaoxin/ExcelReport  [![NuGet Version](https://img.shields.io/nuget/v/ExcelReport.svg?style=flat)](https://www.nuget.org/packages/ExcelReport/) [![NuGet](https://img.shields.io/nuget/dt/ExcelReport)](https://www.nuget.org/packages/ExcelReport) 
 
