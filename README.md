@@ -100,9 +100,6 @@ https://github.com/liukuo362573/YiShaAdmin
 https://github.com/MonkSoul/Fur
 
 ## 界面设计、控件库
-基于 Ant Design 和 Blazor 的企业级组件库  
-https://github.com/ant-design-blazor/ant-design-blazor
-
 WPF UI设计  
 https://github.com/HenJigg/WPF-UI-Design
 
