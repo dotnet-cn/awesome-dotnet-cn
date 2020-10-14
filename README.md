@@ -28,7 +28,7 @@ https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nu
 基于roslyn的高性能动态代码调用库  
 https://github.com/dotnetcore/Natasha [![NuGet Version](https://img.shields.io/nuget/v/DotNetCore.Natasha.svg?style=flat)](https://www.nuget.org/packages/DotNetCore.Natasha/) [![NuGet](https://img.shields.io/nuget/dt/DotNetCore.Natasha)](https://www.nuget.org/packages/DotNetCore.Natasha) 
 
-NBear ORM库 (200X年很火的ORM)
+NBear ORM库 (200X年很火的ORM)  
 https://archive.codeplex.com/?p=nbear
 
 ORM库  
@@ -56,6 +56,9 @@ https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nu
 
 基于xlua的MVVM框架  
 https://github.com/Justin-sky/Nice-Lua
+
+支持表达式计算的计算引擎  
+https://archive.codeplex.com/?p=calculator
 
 ## 算法
 动态缓存库，实现了各种查找树  
