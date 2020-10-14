@@ -28,8 +28,12 @@ https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nu
 基于roslyn的高性能动态代码调用库  
 https://github.com/dotnetcore/Natasha [![NuGet Version](https://img.shields.io/nuget/v/DotNetCore.Natasha.svg?style=flat)](https://www.nuget.org/packages/DotNetCore.Natasha/) [![NuGet](https://img.shields.io/nuget/dt/DotNetCore.Natasha)](https://www.nuget.org/packages/DotNetCore.Natasha) 
 
+NBear ORM库 (200X年很火的ORM)
+https://archive.codeplex.com/?p=nbear
+
 ORM库  
 https://github.com/sunkaixuan/SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) 
+
 
 ## 工具/系统
 SS客户端  
