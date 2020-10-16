@@ -35,7 +35,7 @@ ORM库
 https://github.com/sunkaixuan/SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) 
 
 开源聊天机器人平台  
-https://github.com/SciSharp/BotSharp
+https://github.com/SciSharp/BotSharp [![NuGet Version](https://img.shields.io/nuget/v/BotSharp.Core.svg?style=flat)](https://www.nuget.org/packages/BotSharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/BotSharp.Core)](https://www.nuget.org/packages/BotSharp.Core) 
 
 ## 工具/系统
 SS客户端  
