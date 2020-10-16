@@ -126,6 +126,9 @@ https://github.com/HenJigg/WPF-UI-Design
 基于 C# .Net WinForm 开源控件库、工具类库、扩展类库、多页面开发框架  
 https://github.com/yhuse/SunnyUI
 
+Winform上支持FontAwesome显示  
+https://github.com/seayxu/FontAwesome
+
 ## 单元测试
 
 用中文编写的单元测试框架  
