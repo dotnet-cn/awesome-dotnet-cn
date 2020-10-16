@@ -31,6 +31,12 @@ https://archive.codeplex.com/?p=nbear
 ORM库  
 https://github.com/sunkaixuan/SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) 
 
+跨平台通讯框架  
+https://github.com/IKende/BeetleX [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.svg?style=flat)](https://www.nuget.org/packages/BeetleX/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX)](https://www.nuget.org/packages/BeetleX) 
+
+Newlife基础框架X组件  
+https://github.com/NewLifeX/X
+
 开源聊天机器人平台  
 https://github.com/SciSharp/BotSharp [![NuGet Version](https://img.shields.io/nuget/v/BotSharp.Core.svg?style=flat)](https://www.nuget.org/packages/BotSharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/BotSharp.Core)](https://www.nuget.org/packages/BotSharp.Core) 
 
