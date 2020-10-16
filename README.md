@@ -1,8 +1,9 @@
 欢迎PR新项目到这个列表中，入表规则见 [这里](https://github.com/dotnet-cn/awesome-dotnet-cn/wiki/%E5%8A%A0%E5%85%A5%E5%88%97%E8%A1%A8%E8%A7%84%E5%88%99)
 
-# 华人圈开源项目聚合
+# 华人圈开源项目聚合 
+### Open Source Projects maintained/participated by Chinese
 
-## 国产ORM库
+## ORM库
 
 NBear ORM库 (200X年很火的ORM)  
 https://archive.codeplex.com/?p=nbear
