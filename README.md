@@ -122,6 +122,9 @@ https://github.com/liukuo362573/YiShaAdmin
 基于.NET 5的极速开发 Web 应用框架  
 https://github.com/MonkSoul/Fur
 
+微服务快速开发框架  
+https://github.com/duyanming/Viper
+
 ## 界面设计、控件库
 WPF UI设计  
 https://github.com/HenJigg/WPF-UI-Design
