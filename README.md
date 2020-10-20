@@ -119,9 +119,6 @@ https://github.com/SeriaWei/ZKEACMS
 .NET Core Web开发的快速开发框架，支持Web和移动端  
 https://github.com/liukuo362573/YiShaAdmin
 
-基于.NET 5的极速开发 Web 应用框架  
-https://github.com/MonkSoul/Fur
-
 微服务快速开发框架  
 https://github.com/duyanming/Viper
 
