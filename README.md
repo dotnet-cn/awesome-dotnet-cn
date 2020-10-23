@@ -51,7 +51,7 @@ https://github.com/kerryjiang/WebSocket4Net [![NuGet Version](https://img.shield
 https://github.com/bimface/bimface-csharp-sdk
 
 Redis驱动库  
-https://github.com/NewLifeX/NewLife.Redis
+https://github.com/NewLifeX/NewLife.Redis [![NuGet Version](https://img.shields.io/nuget/v/NewLife.Redis.svg?style=flat)](https://www.nuget.org/packages/NewLife.Redis/) [![NuGet](https://img.shields.io/nuget/dt/NewLife.Redis.svg)](https://www.nuget.org/packages/NewLife.Redis) 
 
 ## 工具/系统
 SS客户端  
