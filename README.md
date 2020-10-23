@@ -72,6 +72,9 @@ https://github.com/Justin-sky/Nice-Lua
 支持表达式计算的计算引擎  
 https://archive.codeplex.com/?p=calculator
 
+验证码识别 发票标号识别 图片识别  
+https://github.com/ccccccmd/ReCapcha
+
 ## 算法
 动态缓存库，实现了各种查找树  
 https://github.com/night-moon-studio/dynamiccache
