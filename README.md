@@ -78,6 +78,10 @@ https://archive.codeplex.com/?p=calculator
 验证码识别 发票标号识别 图片识别  
 https://github.com/ccccccmd/ReCapcha
 
+## 区块链
+分布式云计算网络  
+https://github.com/AElfProject/AElf
+
 ## 算法
 动态缓存库，实现了各种查找树  
 https://github.com/night-moon-studio/dynamiccache
