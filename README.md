@@ -42,6 +42,9 @@ https://github.com/NewLifeX/X
 开源聊天机器人平台  
 https://github.com/SciSharp/BotSharp [![NuGet Version](https://img.shields.io/nuget/v/BotSharp.Core.svg?style=flat)](https://www.nuget.org/packages/BotSharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/BotSharp.Core)](https://www.nuget.org/packages/BotSharp.Core) 
 
+可自定义的全局HTTP异常处理程序和针对ASP.NET Core API的响应包装器  
+https://github.com/proudmonkey/AutoWrapper [![NuGet Version](https://img.shields.io/nuget/v/AutoWrapper.svg?style=flat)](https://www.nuget.org/packages/AutoWrapper/) [![NuGet](https://img.shields.io/nuget/dt/AutoWrapper)](https://www.nuget.org/packages/AutoWrapper) 
+
 ## 驱动/客户端
 
 WebSocket客户端  
@@ -148,3 +151,5 @@ https://github.com/seayxu/FontAwesome
 
 用中文编写的单元测试框架  
 https://github.com/dotnet-campus/CUnit [![NuGet Version](https://img.shields.io/nuget/v/MSTestEnhancer.svg?style=flat)](https://www.nuget.org/packages/MSTestEnhancer/) [![NuGet](https://img.shields.io/nuget/dt/MSTestEnhancer)](https://www.nuget.org/packages/MSTestEnhancer)
+
+
