@@ -3,6 +3,10 @@
 # 华人圈开源项目聚合 
 ### Open Source Projects maintained/participated by Chinese
 
+## 工具
+半自动Java转.NET神器  
+https://github.com/nissl-lab/JavaToCSharp  
+
 ## ORM库
 
 NBear ORM库 (200X年很火的ORM)  
