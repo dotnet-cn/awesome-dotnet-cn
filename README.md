@@ -48,7 +48,7 @@ https://github.com/proudmonkey/AutoWrapper [![NuGet Version](https://img.shields
 .NET的bssom结构协议实现  
 https://github.com/1996v/Bssom.Net  [![NuGet Version](https://img.shields.io/nuget/v/BssomSerializer.svg?style=flat)](https://www.nuget.org/packages/BssomSerializer/) [![NuGet](https://img.shields.io/nuget/dt/BssomSerializer)](https://www.nuget.org/packages/BssomSerializer)  
 
-.NET的bssom结构协议实现  
+jkjk  
 https://github.com/Accelerider/Accelerider.Windows
 
 ## 驱动/客户端
