@@ -63,6 +63,9 @@ https://github.com/bimface/bimface-csharp-sdk
 Redis驱动库  
 https://github.com/NewLifeX/NewLife.Redis [![NuGet Version](https://img.shields.io/nuget/v/NewLife.Redis.svg?style=flat)](https://www.nuget.org/packages/NewLife.Redis/) [![NuGet](https://img.shields.io/nuget/dt/NewLife.Redis.svg)](https://www.nuget.org/packages/NewLife.Redis) 
 
+中国移动SMS网关协议的C#实现  
+https://github.com/bestmike007/CMPP30
+
 ## 工具/系统
 SS客户端  
 https://github.com/shadowsocksrr/shadowsocksr-csharp
