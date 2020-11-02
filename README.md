@@ -147,6 +147,9 @@ https://github.com/duyanming/Viper
 基于.NET 3.1的CMS实现  
 https://github.com/luoyunchong/lin-cms-dotnetcore
 
+基于ABP vNext微服务架构  
+https://github.com/WilliamXu96/ABP-MicroService
+
 ## 界面设计、控件库
 WPF UI设计  
 https://github.com/HenJigg/WPF-UI-Design
