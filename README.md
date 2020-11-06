@@ -1,6 +1,6 @@
 欢迎PR新项目到这个列表中，入表规则见 [这里](https://github.com/dotnet-cn/awesome-dotnet-cn/wiki/%E5%8A%A0%E5%85%A5%E5%88%97%E8%A1%A8%E8%A7%84%E5%88%99)
 
-# 华人圈开源项目聚合 
+# 华人开源项目聚合 
 ### Open Source Projects maintained/participated by Chinese
 
 ## 工具
@@ -51,6 +51,10 @@ https://github.com/proudmonkey/AutoWrapper [![NuGet Version](https://img.shields
 
 .NET的bssom结构协议实现  
 https://github.com/1996v/Bssom.Net  [![NuGet Version](https://img.shields.io/nuget/v/BssomSerializer.svg?style=flat)](https://www.nuget.org/packages/BssomSerializer/) [![NuGet](https://img.shields.io/nuget/dt/BssomSerializer)](https://www.nuget.org/packages/BssomSerializer)  
+
+基于Java的Autowired项目的.NET移植版本  
+https://github.com/kirov-opensource/NAutowired [![NuGet Version](https://img.shields.io/nuget/v/NAutowired.svg?style=flat)](https://www.nuget.org/packages/NAutowired/) [![NuGet](https://img.shields.io/nuget/dt/NAutowired)](https://www.nuget.org/packages/NAutowired) 
+
 
 ## 驱动/客户端
 
