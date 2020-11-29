@@ -1,4 +1,4 @@
-欢迎PR新项目到这个列表中，入表规则见 [这里](https://github.com/dotnet-cn/awesome-dotnet-cn/wiki/%E5%8A%A0%E5%85%A5%E5%88%97%E8%A1%A8%E8%A7%84%E5%88%99)
+欢迎PR新项目到这个列表中，入表规则见 [这里](https://github.com/dotnet-cn/awesome-dotnet-cn/wiki/%E5%8A%A0%E5%85%A5%E5%88%97%E8%A1%A8%E8%A7%84%E5%88%99-Q&A)
 
 # 华人开源项目聚合 
 ### Open Source Projects maintained/participated by Chinese
