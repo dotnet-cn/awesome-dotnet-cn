@@ -90,7 +90,7 @@ https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nu
 https://github.com/Justin-sky/Nice-Lua
 
 支持表达式计算的计算引擎  
-https://archive.codeplex.com/?p=calculator
+https://github.com/shnug/CalculationEngine
 
 验证码识别 发票标号识别 图片识别  
 https://github.com/ccccccmd/ReCapcha
