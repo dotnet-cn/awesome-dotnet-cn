@@ -9,7 +9,7 @@ https://github.com/nissl-lab/JavaToCSharp
 
 ## ORM库
 
-NBear ORM库 (200X年很火的ORM)  
+NBear ORM库 (200X年很火的ORM，正在积极联系作者，尝试复活这个库)  
 https://archive.codeplex.com/?p=nbear
 
 简洁ORM库  
@@ -169,6 +169,9 @@ https://github.com/yhuse/SunnyUI
 
 Winform上支持FontAwesome显示  
 https://github.com/seayxu/FontAwesome
+
+WinForm界面组件库  
+https://github.com/NetDimension/NanUI
 
 Bootstrap的Blazor封装库  
 https://github.com/ArgoZhang/BootstrapBlazor
