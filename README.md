@@ -40,8 +40,11 @@ https://github.com/dotnetcore/Natasha [![NuGet Version](https://img.shields.io/n
 跨平台通讯框架  
 https://github.com/IKende/BeetleX [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.svg?style=flat)](https://www.nuget.org/packages/BeetleX/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX)](https://www.nuget.org/packages/BeetleX) 
 
+轻量级HTTP服务组件  
+https://github.com/beetlex-io/FastHttpApi [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.FastHttpApi.svg?style=flat)](https://www.nuget.org/packages/BeetleX.FastHttpApi/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX.FastHttpApi)](https://www.nuget.org/packages/BeetleX.FastHttpApi) 
+
 Newlife基础框架X组件  
-https://github.com/NewLifeX/X
+https://github.com/NewLifeX/X [![NuGet Version](https://img.shields.io/nuget/v/NewLife.Core.svg?style=flat)](https://www.nuget.org/packages/NewLife.Core/) [![NuGet](https://img.shields.io/nuget/dt/NewLife.Core)](https://www.nuget.org/packages/NewLife.Core) 
 
 开源聊天机器人平台  
 https://github.com/SciSharp/BotSharp [![NuGet Version](https://img.shields.io/nuget/v/BotSharp.Core.svg?style=flat)](https://www.nuget.org/packages/BotSharp.Core/) [![NuGet](https://img.shields.io/nuget/dt/BotSharp.Core)](https://www.nuget.org/packages/BotSharp.Core) 
@@ -54,9 +57,6 @@ https://github.com/1996v/Bssom.Net  [![NuGet Version](https://img.shields.io/nug
 
 基于Java的Autowired项目的.NET移植版本  
 https://github.com/kirov-opensource/NAutowired [![NuGet Version](https://img.shields.io/nuget/v/NAutowired.svg?style=flat)](https://www.nuget.org/packages/NAutowired/) [![NuGet](https://img.shields.io/nuget/dt/NAutowired)](https://www.nuget.org/packages/NAutowired) 
-
-轻量级HTTP服务组件  
-https://github.com/beetlex-io/FastHttpApi [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.FastHttpApi.svg?style=flat)](https://www.nuget.org/packages/BeetleX.FastHttpApi/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX.FastHttpApi)](https://www.nuget.org/packages/BeetleX.FastHttpApi) 
 
 ## 驱动/客户端
 
