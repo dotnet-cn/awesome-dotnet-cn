@@ -55,6 +55,8 @@ https://github.com/1996v/Bssom.Net  [![NuGet Version](https://img.shields.io/nug
 基于Java的Autowired项目的.NET移植版本  
 https://github.com/kirov-opensource/NAutowired [![NuGet Version](https://img.shields.io/nuget/v/NAutowired.svg?style=flat)](https://www.nuget.org/packages/NAutowired/) [![NuGet](https://img.shields.io/nuget/dt/NAutowired)](https://www.nuget.org/packages/NAutowired) 
 
+轻量级HTTP服务组件  
+https://github.com/beetlex-io/FastHttpApi [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.FastHttpApi.svg?style=flat)](https://www.nuget.org/packages/BeetleX.FastHttpApi/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX.FastHttpApi)](https://www.nuget.org/packages/BeetleX.FastHttpApi) 
 
 ## 驱动/客户端
 
