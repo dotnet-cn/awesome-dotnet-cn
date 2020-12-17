@@ -145,7 +145,7 @@ SS CMS系统
 https://github.com/siteserver/cms
 
 基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架  
-https://github.com/iamoldli/NetModular
+https://github.com/iamoldli/NetModular  [![NuGet Version](https://img.shields.io/nuget/v/NetModular.Lib.Utils.Core.svg?style=flat)](https://www.nuget.org/packages/NetModular.Lib.Utils.Core/) [![NuGet](https://img.shields.io/nuget/dt/NetModular.Lib.Utils.Core)](https://www.nuget.org/packages/NetModular.Lib.Utils.Core)  
 
  .Net Core可视化设计在线编辑内容管理系统  
 https://github.com/SeriaWei/ZKEACMS
