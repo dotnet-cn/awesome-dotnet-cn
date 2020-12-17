@@ -76,9 +76,6 @@ https://github.com/bestmike007/CMPP30
 SS客户端  
 https://github.com/shadowsocksrr/shadowsocksr-csharp
 
-分布式微服务框架,提供高性能RPC远程服务调用  
-https://github.com/fanliang11/surging
-
 类似LINQPad的工具  
 https://github.com/night-moon-studio/NatashaPad/ 
 
