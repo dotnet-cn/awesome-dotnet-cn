@@ -9,7 +9,7 @@ https://github.com/nissl-lab/JavaToCSharp
 
 ## ORM库
 
-NBear ORM库 (200X年很火的ORM，正在积极联系作者，尝试复活这个库)  
+NBear ORM库 (200X年很火的ORM)  
 https://archive.codeplex.com/?p=nbear
 
 简洁ORM库  
