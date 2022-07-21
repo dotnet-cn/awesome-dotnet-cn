@@ -10,7 +10,7 @@ https://github.com/nissl-lab/JavaToCSharp
 ## ORM库
 
 NBear ORM库 (200X年很火的ORM)  
-https://archive.codeplex.com/?p=nbear
+https://github.com/shnug/NBear
 
 简洁ORM库  
 https://github.com/sunkaixuan/SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) 
