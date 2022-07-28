@@ -159,6 +159,10 @@ https://github.com/luoyunchong/lin-cms-dotnetcore
 基于ABP vNext微服务架构  
 https://github.com/WilliamXu96/ABP-MicroService
 
+Furion   
+https://gitee.com/dotnetchina/Furion [![NuGet Version](https://img.shields.io/nuget/v/Furion.svg?style=flat)](https://www.nuget.org/packages/Furion/) [![NuGet](https://img.shields.io/nuget/dt/Furion)](https://www.nuget.org/packages/Furion)  
+
+
 ## 界面设计、控件库
 WPF UI设计  
 https://github.com/HenJigg/WPF-UI-Design
