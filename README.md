@@ -16,28 +16,31 @@ https://github.com/shnug/NBear
 https://github.com/sunkaixuan/SqlSugar [![NuGet Version](https://img.shields.io/nuget/v/SqlSugarCore.svg?style=flat)](https://www.nuget.org/packages/SqlSugarCore/) [![NuGet](https://img.shields.io/nuget/dt/SqlSugarCore)](https://www.nuget.org/packages/SqlSugarCore) 
 
 ## 中间件
-Office文件读写组件，Apache POI移植版本  
+NPOI - Office文件读写组件，Apache POI移植版本  
 https://github.com/tonyqus/npoi [![NuGet Version](https://img.shields.io/nuget/v/NPOI.svg?style=flat)](https://www.nuget.org/packages/NPOI/) [![NuGet](https://img.shields.io/nuget/dt/NPOI.svg)](https://www.nuget.org/packages/NPOI) 
 
-轻量级Socket可扩展框架  
+MiniExcel - Office文件读写组件   
+https://github.com/MiniExcel/MiniExcel [![NuGet Version](https://img.shields.io/nuget/v/MiniExcel.svg?style=flat)](https://www.nuget.org/packages/MiniExcel/) [![NuGet](https://img.shields.io/nuget/dt/MiniExcel.svg)](https://www.nuget.org/packages/MiniExcel) 
+
+Supersocket - 轻量级Socket可扩展框架  
 https://github.com/kerryjiang/SuperSocket [![NuGet Version](https://img.shields.io/nuget/v/SuperSocket.svg?style=flat)](https://www.nuget.org/packages/SuperSocket/) [![NuGet](https://img.shields.io/nuget/dt/SuperSocket.svg)](https://www.nuget.org/packages/SuperSocket) 
 
-文本抽取库，支持Word, Excel, CSV, Email等格式  
+Toxy - 文本抽取库，支持Word, Excel, CSV, Email等格式  
 https://github.com/tonyqus/toxy [![NuGet Version](https://img.shields.io/nuget/v/Toxy.svg?style=flat)](https://www.nuget.org/packages/Toxy/) [![NuGet](https://img.shields.io/nuget/dt/Toxy.svg)](https://www.nuget.org/packages/Toxy) 
 
-NPOI Mapper  
+NPOI Mapper - 基于NPOI的ORM映射库  
 https://github.com/donnytian/Npoi.Mapper [![NuGet Version](https://img.shields.io/nuget/v/Npoi.Mapper.svg?style=flat)](https://www.nuget.org/packages/Npoi.Mapper/) [![NuGet](https://img.shields.io/nuget/dt/Npoi.Mapper.svg)](https://www.nuget.org/packages/Npoi.Mapper) 
 
-Excel模板渲染引擎  
+ExcelReport - Excel模板渲染引擎  
 https://github.com/hanzhaoxin/ExcelReport  [![NuGet Version](https://img.shields.io/nuget/v/ExcelReport.svg?style=flat)](https://www.nuget.org/packages/ExcelReport/) [![NuGet](https://img.shields.io/nuget/dt/ExcelReport)](https://www.nuget.org/packages/ExcelReport) 
 
 .NET访问控制库，支持各种访问控制模型   
 https://github.com/casbin/Casbin.NET [![NuGet Version](https://img.shields.io/nuget/v/Casbin.NET.svg?style=flat)](https://www.nuget.org/packages/Casbin.NET/) [![NuGet](https://img.shields.io/nuget/dt/Casbin.NET)](https://www.nuget.org/packages/Casbin.NET) 
 
-跨平台通讯框架  
+BeetleX - 跨平台通讯框架  
 https://github.com/IKende/BeetleX [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.svg?style=flat)](https://www.nuget.org/packages/BeetleX/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX)](https://www.nuget.org/packages/BeetleX) 
 
-轻量级HTTP服务组件  
+FastHttpApi - 轻量级HTTP服务组件  
 https://github.com/beetlex-io/FastHttpApi [![NuGet Version](https://img.shields.io/nuget/v/BeetleX.FastHttpApi.svg?style=flat)](https://www.nuget.org/packages/BeetleX.FastHttpApi/) [![NuGet](https://img.shields.io/nuget/dt/BeetleX.FastHttpApi)](https://www.nuget.org/packages/BeetleX.FastHttpApi) 
 
 Newlife基础框架X组件  
@@ -159,9 +162,11 @@ https://github.com/luoyunchong/lin-cms-dotnetcore
 基于ABP vNext微服务架构  
 https://github.com/WilliamXu96/ABP-MicroService
 
-Furion   
+Furion - 快速开发框架   
 https://gitee.com/dotnetchina/Furion [![NuGet Version](https://img.shields.io/nuget/v/Furion.svg?style=flat)](https://www.nuget.org/packages/Furion/) [![NuGet](https://img.shields.io/nuget/dt/Furion)](https://www.nuget.org/packages/Furion)  
 
+OpenAuth.Core - 快速开发框架  
+https://github.com/yubaolee/OpenAuth.Core
 
 ## 界面设计、控件库
 WPF UI设计  
