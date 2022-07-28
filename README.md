@@ -121,9 +121,6 @@ https://github.com/Varorbc/PaySharp [![NuGet Version](https://img.shields.io/nug
 支持多商户的跨平台支付SDK集，简化了API调用及相关通知的处理流程  
 https://github.com/essensoft/payment [![NuGet Version](https://img.shields.io/nuget/v/Essensoft.AspNetCore.Payment.Security.svg?style=flat)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security/) [![NuGet](https://img.shields.io/nuget/dt/Essensoft.AspNetCore.Payment.Security)](https://www.nuget.org/packages/Essensoft.AspNetCore.Payment.Security) 
 
-统一支付库  
-https://github.com/xin-lai/Magicodes.Pay [![NuGet Version](https://img.shields.io/nuget/v/Magicodes.Pay.WeChat.svg?style=flat)](https://www.nuget.org/packages/Magicodes.Pay.WeChat/) [![NuGet](https://img.shields.io/nuget/dt/Magicodes.Pay.WeChat)](https://www.nuget.org/packages/Magicodes.Pay.WeChat) 
-
 ## 图像处理
 https://github.com/SciSharp/SharpCV [![NuGet Version](https://img.shields.io/nuget/v/SharpCV.svg?style=flat)](https://www.nuget.org/packages/SharpCV/) [![NuGet](https://img.shields.io/nuget/dt/SharpCV)](https://www.nuget.org/packages/SharpCV) 
 
